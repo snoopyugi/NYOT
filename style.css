@@ -19,17 +19,17 @@ nav{
 }
 /*successful*/
 header{
-    height: 950px; 
-    width: 1500px;
-    background-image: url(cover.jpeg);
-    
+    height: 550px; 
+    width: 100%;
+    background-image: url("cover.jpeg");
+    background-size: cover;
     /*text align*/
     text-align: center;
 }
 header p{ 
     font-style: italic;
     color: green;
-{
+}
 header h1{
     color: white;
 }    
