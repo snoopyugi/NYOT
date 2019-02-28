@@ -1,3 +1,35 @@
 body {
         background-color: orange;
 }
+nav{
+    text-transform: uppercase;
+    font-family: PT Sans Narrow;
+}
+.nav-link{
+    font-weight: bold;    
+}
+.nav-link{
+    font-style: italic;
+}
+.nav-link:hover{
+    background-color: yellow !important; 
+}
+.nav-link:hover{
+    opacity: 1
+}
+/*successful*/
+header{
+    height: 950px; 
+    width: 1500px;
+    background-image: url(cover.jpeg);
+    
+    /*text align*/
+    text-align: center;
+}
+header p{ 
+    font-style: italic;
+    color: green;
+{
+header h1{
+    color: white;
+}    
