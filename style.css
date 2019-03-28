@@ -19,7 +19,7 @@ nav{
 }
 /*successful*/
 header{
-    height: 550px; 
+    height: 1500PX; 
     width: 100%;
     background-image: url("cover.jpeg");
     background-size: cover;
@@ -46,4 +46,26 @@ header h1{
     width: 70px;
     height: 70px;
     border-radius: 50%
+}
+.pricing {
+    text-align: center;
+}
+.teams {
+    text-align: center;
+}
+.teams img { 
+    height: 100px;
+    width:  200px;
+    border-radius: 100%;
+}
+.contact {
+    text-align: center;
+}
+.contact textarea {
+    height: 200px;
+    width:  200px;
+}
+footer {
+    background color: green;
+    width: 100% !important;
 }
